@@ -7,7 +7,7 @@ Homebrew maintainers are still refusing to add sshpass for security reasons.
 
 1. add tap
 ```
-brew tap perkons/sshpass
+brew tap jonny-mcc/sshpass
 ```
 2. install sshpass
 ```
@@ -19,11 +19,11 @@ brew install sshpass
 1. install via URL (no updates):
 
 ```
-brew install https://raw.githubusercontent.com/perkons/homebrew-sshpass/master/sshpass.rb
+brew install https://raw.githubusercontent.com/jonny-mcc/homebrew-sshpass/master/sshpass.rb
 ```
 or
 ```
-brew install perkons/homebrew-sshpass/sshpass
+brew install jonny-mcc/homebrew-sshpass/sshpass
 ```
 
 ## Uninstall
@@ -35,5 +35,5 @@ brew rm sshpass
 ```
 2. remove tap
 ```
-brew untap perkons/sshpass
+brew untap jonny-mcc/sshpass
 ```
